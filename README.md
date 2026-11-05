@@ -8,6 +8,12 @@ Backend API for the BookNook online library application built with Node.js, Expr
 - Better Auth & JWT for Security
 - CORS & Dotenv
 
+## Getting Started / Running Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/abdullah-al-shahed/booknook-server.git](https://github.com/abdullah-al-shahed/booknook-server.git)
+
+
 ## API Endpoints
 - `GET /books` - Get all books
 - `GET /new-arrivals` - Get latest 6 books
